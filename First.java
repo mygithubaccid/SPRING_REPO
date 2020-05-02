@@ -9,6 +9,7 @@ public static void main(String[] args)
 }
 erhhsgzdsafsdfads
 sdfdslfasjfojas
+<<<<<<< HEAD
 
 
 
@@ -16,3 +17,6 @@ asdfsafas
 sdf
 
 ads
+=======
+Heloo java how are our
+>>>>>>> 51a1456f4e71a95061ca06731324f91e96fa4207
